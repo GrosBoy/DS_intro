@@ -1,2 +1,2 @@
-Введение в Data Science
+# Введение в Data Science
 Репозиторий для курса «Введение в Data Science»
